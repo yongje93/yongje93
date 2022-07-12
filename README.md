@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=cce5ee&height=200&section=header&text=YongjeShin&animation=fadeIn&fontColor=7E7E7E&fontSize=90&fontAlignY=50)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=cce5ee&height=300&text=Yonlog&fontAlign=70&rotate=13&fontAlignY=25&desc=Hi%20there.%20I'm%20Yongje%20Shin&descAlign=70.&descAlignY=44)
 
 ### 💪 Skills
 #### Platforms & Languages

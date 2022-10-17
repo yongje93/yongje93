@@ -20,6 +20,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 </P>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongje93)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongje93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yongje93&show_icons=true&theme=vue&count_private=true&custom_title=My%20GitHub%20Stats%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yongje93&show_icons=true&theme=vue-dark&count_private=true&custom_title=My%20GitHub%20Stats%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)

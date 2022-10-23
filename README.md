@@ -22,4 +22,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongje93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yongje93&show_icons=true&theme=vue-dark&count_private=true&custom_title=My%20GitHub%20Stats%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yongje93&show_icons=true&theme=onedark&count_private=true&custom_title=My%20GitHub%20Stats%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
